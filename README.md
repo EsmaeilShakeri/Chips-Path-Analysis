@@ -1,10 +1,6 @@
 # Chips-Path-Analysis
 -------------------------------------------------------------------------------------------
-In this project we are going to analyse the chips path through the deep learning approaches.
-
-We will use well-performed deep transfer learning models to monitor the chip path.
-
-We will use image segmentation models for detecting chips path.
+AI-CMCA is a deep learning framework for analyzing capillary microfluidic chips (CMCs). We used encoder-decoder segmentation models to automatically detect and track fluid paths in image sequences. The approach significantly improves speed and consistency compared to manual tracking, enabling fast and accurate analysis for microfluidic research.
 
 -------------------------------------------------------------------------------------------
 

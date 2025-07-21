@@ -7,6 +7,8 @@ AI-CMCA is a deep learning framework for analyzing capillary microfluidic chips 
 
 ## Contributers: Esmaeil Shakeri, Mahmood Khalghollah
 
+-------------------------------------------------------------------------------------------
+
 ## Winter 2025
 
 

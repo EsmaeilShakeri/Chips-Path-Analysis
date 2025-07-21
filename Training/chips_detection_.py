@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/15LEGNSj-QA7rTZGhbZAF6vx66Vr8nGws
 
 --------------------------------------------------------------------------------
-#### Collaborators Esmaeil Shakeri, Mahmoud Khalghollah
+#### Collaborators Esmaeil Shakeri, Mahmood Khalghollah
 #### Chips Analysis
 ####Winter  2024
 
-**In this study we are going to detect the Chips path from recorded video that converted to png**
+**We used encoder-decoder segmentation models to automatically detect and track fluid paths. In this study, we detect chip flow paths from recorded videos converted to PNG image sequences. **
 
 ####The following steps are summarized below:
 --------------------------------------------------------------------------------

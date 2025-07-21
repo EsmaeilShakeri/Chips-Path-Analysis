@@ -8,4 +8,4 @@ We will use image segmentation models for detecting chips path.
 
 -------------------------------------------------------------------------------------------
 
-## Contributers: Esmaeil Shakeri, Mahmoud Khalghollah
+## Contributers: Esmaeil Shakeri, Mahmood Khalghollah

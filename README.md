@@ -5,10 +5,6 @@ AI-CMCA is a deep learning framework for analyzing capillary microfluidic chips 
 
 -------------------------------------------------------------------------------------------
 
-## Contributers: Esmaeil Shakeri, Mahmood Khalghollah
-
--------------------------------------------------------------------------------------------
-
 ## 📜 License
 
 This project is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
@@ -20,6 +16,10 @@ This project is licensed under the [CC BY-NC-ND 4.0 License](https://creativecom
 If you use the code or dataset in academic work, please cite:
 
 Khalghollah M, Shakeri E, Zare A, Far BH, Sanati-Nezhad A. Fluid Path Detection Model for Lab on a Chip Images Using Deep Learning-Based Segmentation Approach. InThe International FLAIRS Conference Proceedings 2024 May 13 (Vol. 37).
+
+-------------------------------------------------------------------------------------------
+
+## Contributers: Esmaeil Shakeri, Mahmood Khalghollah
 
 -------------------------------------------------------------------------------------------
 

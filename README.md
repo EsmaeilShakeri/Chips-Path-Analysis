@@ -19,8 +19,7 @@ This project is licensed under the [CC BY-NC-ND 4.0 License](https://creativecom
 
 If you use the code or dataset in academic work, please cite:
 
-**Khalghollah, Mahmood, et al.**  
-*"Fluid Path Detection Model for Lab on a Chip Images Using Deep Learning-Based Segmentation Approach."*  
+**Khalghollah, Mahmood, et al.**"Fluid Path Detection Model for Lab on a Chip Images Using Deep Learning-Based Segmentation Approach."*  
 The International FLAIRS Conference Proceedings, Vol. 37, 2024.
 
 -------------------------------------------------------------------------------------------

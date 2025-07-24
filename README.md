@@ -13,7 +13,7 @@ This project is licensed under the [CC BY-NC-ND 4.0 License](https://creativecom
 - **Non-commercial use only**.
 - **No derivatives or modifications** allowed.
 
-If you use the code or dataset in academic work, please cite:
+If you use the code or dataset (https://github.com/Mkh23/Fluid-Paths-Detection) in academic work, please cite:
 
 Khalghollah M, Zare A, Shakeri E, Far B, Sanati-Nezhad A. AI-CMCA: a deep learning-based segmentation framework for capillary microfluidic chip analysis. Scientific Reports. 2025 Jul 21;15(1):26415. DOI:
 https://doi.org/10.1038/s41598-025-11508-7

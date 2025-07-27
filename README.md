@@ -24,7 +24,8 @@ This project uses the dataset and models from the following repository:
 -------------------------------------------------------------------------------------------
 
 **Citation Notice**: 
-If you use this dataset or code, **please cite the original publication**:
+If you use this dataset or code, **please cite the original publications**:
+
 Khalghollah M, Zare A, Shakeri E, Far B, Sanati-Nezhad A. AI-CMCA: a deep learning-based segmentation framework for capillary microfluidic chip analysis. Scientific Reports. 2025 Jul 21;15(1):26415. DOI:
 https://doi.org/10.1038/s41598-025-11508-7
 
